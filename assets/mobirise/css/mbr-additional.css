@@ -67,6 +67,7 @@
 }
 #instagram-feed-block-u .inst__title {
   font-family: 'Indie Flower', cursive;
+  color: #ffffff;
 }
 #msg-box5-h .mbr-header__text {
   color: #ffffff;
@@ -128,10 +129,16 @@
 #form1-r .mbr-header__text SPAN {
   font-size: 20px;
 }
+#contacts1-z P {
+  color: #ffffff;
+}
 #social-buttons2-n .mbr-header__text {
   font-size: 16px;
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
+}
+#footer1-v P {
+  color: #ffffff;
 }
 
 

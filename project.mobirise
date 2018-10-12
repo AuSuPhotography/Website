@@ -22,9 +22,10 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 31,
-    "versionPublish": "4.7.2",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 37,
+    "versionPublish": "4.8.5",
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -69,7 +70,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#2c2c2c"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-2\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-t\">Team</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.facebook.com/pg/AuSuClicks/photos/?tab=album&amp;album_id=465648543818195\">Gallery</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-e\">ABOUT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-2\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-t\">Team</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.facebook.com/pg/AuSuClicks/photos/?tab=album&amp;album_id=465648543818195\" target=\"_blank\">Gallery</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-z\">ABOUT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:+918272815720\" data-toolbar=\"-mbrBtnMove\">Call</a></li>",
           "logo": {
             "image": {
@@ -159,7 +160,7 @@
             "bgColor": "#2c2c2c",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/picsart-05-21-10.29.40-2-2000x1291.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-05-21-10.29.40-3-2000x1291.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -232,26 +233,26 @@
           "_params": {
             "token": "2307268785.727bfe1.db0d3bd51a2649c8944a2580bfb39a60",
             "showTitle": true,
-            "layoutGridRadio": false,
-            "imagesPerRowGrid": "5",
-            "rows": "5",
-            "showMoreButton": false,
-            "layoutSliderRadio": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "6",
+            "rows": "6",
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
             "imagesPerRowSlider": "5",
             "spacing": "6",
-            "fullWidth": false,
+            "fullWidth": true,
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#6e6e6e",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn1318-01-3-2000x1169.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
           "title": "Gallery",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-warning\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\"><span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\"></span>Show More</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
@@ -263,7 +264,8 @@
           "_styles": {
             ".inst__title": {
               "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#ffffff"
             }
           }
         },
@@ -478,7 +480,7 @@
           },
           "title1": "Abhishek Gupta",
           "caption1": "Co-Founder &amp; Owner of AuSu Photography Studio's.<br>Cheif Photographer, Cinematographer &amp; Assistant Editor.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/abhishek251gupta\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROFILE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/abhishek251gupta\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROFILE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -501,7 +503,7 @@
           },
           "title2": "Sumendra Nath",
           "caption2": "Co-Founder &amp; Owner of AuSu Photography Studio's.<br>Photographer(Macro Specialist), Cheif Editor &amp; Videographer.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/sumendranathsingh\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROFILE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/sumendranathsingh\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROFILE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -524,7 +526,7 @@
           },
           "title3": "Mukul Gupta",
           "caption3": "Team member of AuSu Photography Studio's<br>Web &amp; Graphic Design Specialist.<br>Sound Engineer for Cinematographs.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/mukul.gupta.54738\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROFILE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/mukul.gupta.54738\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROFILE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -547,7 +549,7 @@
           },
           "title4": "Shivam Saini",
           "caption4": "Team member of AuSu Photography Studio's.<br>Official Model &amp; Accounts manager, Styling Expert.<br>&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/shivam.saini.9634\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROFILE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/shivam.saini.9634\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROFILE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -570,7 +572,7 @@
           },
           "title5": "Rahul Das",
           "caption5": "Team member of AuSu Photography Studio's.<br>Tech. Specialist, software manager &amp; Online marketing head.<br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Profile</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/r.dasss\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Profile</a>",
           "media6": {
             "image": {
               "active": true,
@@ -676,29 +678,61 @@
         },
         {
           "_params": {
+            "googleMap": {
+              "address": "43,Pushp Nagar,100feet Shamshahbad Road,, Rajpur Chungi, Indrapuram, Kaveri Vihar Phase II, Shamsabad, Agra, Uttar Pradesh 282001",
+              "placeId": "ChIJZYTsGmR3dDkRkKBkrnBnYGo",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-y"
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "43,pushp Nagar 100feet Shamshahbad Road, Rajpur Chungi, Agra, Uttar Pradesh 282004",
-              "placeId": "",
-              "state": "loading"
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4f29ebf5-7fb1-4017-8533-41cc2f076aa8-200x200.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br><b>Co. Office</b>:<br>43,pushp nagar,100 feet shamshahbad road,rajpur chungi,Agra,Uttar Pradesh,282004<br><b>Studio</b>:<br> 43,pushp nagar,100 feet shamshahbad road,rajpur chungi,Agra,Uttar Pradesh,282004<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>CONTACTS\n</strong></p><p class=\"mbr-contacts__text\"><b>Email: </b></p><p class=\"mbr-contacts__text\">abhishek251gupta@gmail.com</p><p class=\"mbr-contacts__text\">(official)</p><p class=\"mbr-contacts__text\">sumendranath36@gmail.com</p><p class=\"mbr-contacts__text\">(Subturate)</p><p class=\"mbr-contacts__text\">Phone: +91 8272815720</p><p class=\"mbr-contacts__text\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+91 8449317237</p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "text1": "ADDRESS\n<br>Co. Office:\n<br>43,pushp nagar,100 feet shamshahbad road,rajpur chungi,Agra,Uttar Pradesh,282004\n<br>Studio:\n<br>43,pushp nagar,100 feet shamshahbad road,rajpur chungi,Agra,Uttar Pradesh,282004\n<br>\n<br>",
+          "text2": "CONTACTS\n<br>Email:\n<br>abhishek251gupta@gmail.com\n<br>(official)\n<br>sumendranath36@gmail.com\n<br>(Subturate)\n<br>Phone: +91 8272815720\n<br>             +91 8449317237&nbsp;<br>",
+          "text3": "<p>Links</p><p>FACEBOOK</p><p>https://www.facebook.com/AuSuClicks</p><p>INSTAGRAM</p><p>https://www.instagram.com/ausu._.photography/</p><p></p><ul class=\"mbr-contacts__list\"></ul><p></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-e"
+          "_name": "contacts1",
+          "_anchor": "contacts1-z",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -708,7 +742,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -726,6 +760,31 @@
               "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 AuSu Photography Studio's. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
             }
           }
         }
@@ -770,7 +829,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#2c2c2c"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-2\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-t\">Team</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.facebook.com/pg/AuSuClicks/photos/?tab=album&amp;album_id=465648543818195\">Gallery</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-e\">ABOUT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-2\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-t\">Team</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.facebook.com/pg/AuSuClicks/photos/?tab=album&amp;album_id=465648543818195\" target=\"_blank\">Gallery</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-z\">ABOUT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:+918272815720\" data-toolbar=\"-mbrBtnMove\">Call</a></li>",
           "logo": {
             "image": {
