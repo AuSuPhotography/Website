@@ -22,7 +22,7 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 37,
+    "uniqCompNum": 39,
     "versionPublish": "4.8.5",
     "screenshot": "screenshot.png",
     "siteFonts": []
@@ -121,7 +121,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">AuSu Photography Studio's</span>",
           "text": "Your Imagination, Our Passion,<br>We give you memories for Life.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://www.facebook.com/pg/AuSuClicks/photos/?tab=album&amp;album_id=465648543818195\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Photo Gallery</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"index.html#msg-box5-h\" data-toolbar=\"-mbrBtnMove\">Video Center</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#instagram-feed-block-u\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Photo Gallery</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"index.html#msg-box5-h\" data-toolbar=\"-mbrBtnMove\">Video Center</a>",
           "_tags": [
             "Theme"
           ],
@@ -167,7 +167,7 @@
                 "showTitle": true,
                 "title": "<span style=\"font-weight: normal;\">Models</span>",
                 "contentAlign": "left",
-                "text": "Modeling is not just about fashion,its about what you feel about what u wear.It takes a lot to be a super model,here at AuSu we give u the best of your pics to showcase your modeling talent.<br>Potraits,Candids,Porfolio's &amp; much more....",
+                "text": "<b>Modeling is not just about fashion,its about what you feel about what u wear.It takes a lot to be a super model,here at AuSu we give u the best of your pics to showcase your modeling talent.<br>Potraits,Candids,Porfolio's &amp; much more....</b>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#instagram-feed-block-u\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-photos mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a>"
               },
               {
@@ -178,7 +178,7 @@
                 "showTitle": true,
                 "title": "<span style=\"font-weight: normal;\">Landscapes</span>",
                 "contentAlign": "right",
-                "text": "Nature's beauty framed are Landscapes,it shows spaces within the world,sometimes vast and unending,but other times microscopic.<br><br>",
+                "text": "<b>Nature's beauty framed are Landscapes,it shows spaces within the world,sometimes vast and unending,but other times microscopic.<br></b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#instagram-feed-block-u\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-photo mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a> ",
                 "overlay": false
               },
@@ -190,7 +190,7 @@
                 "showTitle": true,
                 "title": "Macro",
                 "contentAlign": "left",
-                "text": "Extreme closeup art of photography,usually done on very small subjects and living organisms like Insects,in which the subject size is greater than life size.",
+                "text": "<b>Extreme closeup art of photography,usually done on very small subjects and living organisms like Insects,in which the subject size is greater than life size.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#instagram-feed-block-u\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-photos mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a> ",
                 "overlay": false
               },
@@ -202,7 +202,7 @@
                 "showTitle": true,
                 "title": "<span style=\"font-weight: normal;\">Water</span>",
                 "contentAlign": "right",
-                "text": "An different aspect of photography on the theme of water.<br>",
+                "text": "<b>An different aspect of photography on the theme of water.</b><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#instagram-feed-block-u\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-photos mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a>"
               }
             ]
@@ -370,19 +370,19 @@
           "currency1": "Rs.",
           "price1": "50-80",
           "period1": "<b>per click<br>(*location charges extra)</b>",
-          "list1": "<p>Perfect Clicks</p><p>Editing option available(Rs. 10/pic extra)</p><p>With-Without stamping</p><p><br></p>",
+          "list1": "<p><b>Perfect Clicks</b></p><p><b>Editing option available(Rs. 10/pic extra)</b></p><p><b>With-Without stamping</b></p><p><br></p>",
           "button1": "<a data-app-btn=\"true\" href=\"mailto:abhishek251gupta@gmail.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Book</a>",
           "title2": "Indoor Shoots",
           "currency2": "Rs.",
           "price2": "70-100",
           "period2": "<b>per click<br>(*location charges extra)</b>",
-          "list2": "<p>Perfect Indoors with proper </p><p>Lighting and Studio setups.</p><p>Editing option available(Rs. 20/pic extra)</p><p>With-Wtihout stamping</p><p></p><ul><li></li></ul><p></p>",
+          "list2": "<p><b>Perfect Indoors with proper </b></p><p><b>Lighting and Studio setups.</b></p><p><b>Editing option available(Rs. 20/pic extra)</b></p><p><b>With-Wtihout stamping</b></p><p></p><ul><li></li></ul><p></p>",
           "button2": "<a data-app-btn=\"true\" href=\"mailto:abhishek251gupta@gmail.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Book</a>",
           "title3": "Portfolio's<br>(Candid,Potraits,etc)",
           "currency3": "Rs.",
-          "price3": "100-500",
-          "period3": "<b>per click<br>(*location charges extra)</b>",
-          "list3": "<p>Center weighted Candids, Potraits, etc</p><p>(Both indoor &amp; Outdoor Category)</p><p>Editing option available(Rs. 20/pic extra)</p><p></p><ul><li></li></ul><p></p>",
+          "price3": "5000-10,000<br>",
+          "period3": "<br><b>4 Pics per dress style with 3 dress codes<br>(*location charges extra)</b>",
+          "list3": "<p><b><span style=\"font-size: 14px;\">Perfect Candids, Potraits for your portfolio</span><br></b></p><p><b>(Both indoor &amp; Outdoor Category)</b></p><p><b>Editing option available(Rs. 20/pic extra)</b></p><p></p><ul><li></li></ul><p></p>",
           "button3": "<a data-app-btn=\"true\" href=\"mailto:abhishek251gupta@gmail.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Book</a>",
           "title4": "Wedding Photography Package<br>(Full wedding drone coverage)",
           "currency4": "Rs.",
