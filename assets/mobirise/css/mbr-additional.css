@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 
@@ -36,7 +35,7 @@
   color: #2c2c2c;
 }
 #menu-0 .mbr-brand__name a {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Indie Flower', cursive;
   font-size: 13px;
 }
 #menu-0 .mbr-navbar__items a {
@@ -156,7 +155,7 @@
   color: #2c2c2c;
 }
 #menu-9 .mbr-brand__name a {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Indie Flower', cursive;
   font-size: 13px;
 }
 #menu-9 .mbr-navbar__items a {
