@@ -51,8 +51,8 @@
               "color": "#2c2c2c"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "13px"
             },
             ".mbr-navbar__items a": {
@@ -88,7 +88,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AuSu Photography</a>",
           "_tags": [
             "Theme"
           ],
@@ -572,7 +572,7 @@
           },
           "title5": "Rahul Das",
           "caption5": "Team member of AuSu Photography Studio's.<br>Tech. Specialist, software manager &amp; Online marketing head.<br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/r.dasss\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Profile</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/rahuldasoo\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Profile</a>",
           "media6": {
             "image": {
               "active": true,
@@ -810,8 +810,8 @@
               "color": "#2c2c2c"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "13px"
             },
             ".mbr-navbar__items a": {
@@ -848,7 +848,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AuSu Photography</a>",
           "_tags": [
             "Theme"
           ],
