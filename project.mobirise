@@ -15,17 +15,19 @@
     },
     "path": "@PROJECT_PATH@",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsSwitcher": "on",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "google-analytics": "",
+    "google-analytics": "google-site-verification: google2877dce34c52711f.html",
     "siteUrl": "undefined",
     "versionFirst": "4.7.2",
     "uniqCompNum": 39,
     "versionPublish": "4.8.5",
     "screenshot": "screenshot.png",
-    "siteFonts": []
+    "siteFonts": [],
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
