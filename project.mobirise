@@ -328,11 +328,11 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=gUcfaDpgd9Y",
+              "src": "https://www.youtube.com/watch?v=rp-z2U7VvOM",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": "on",
-              "loop": false
+              "loop": "on"
             }
           },
           "title": "<span style=\"font-weight: normal;\">Video Center</span>",
